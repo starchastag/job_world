@@ -6,74 +6,38 @@ Currently verification Methods is Ongoing ..............UPDATED SOON............
 
 
 
+## Getting Started 
 
-# Getting Started with Create React App
+### Developer guide
+- Clone the project in your local machine
+- Install all the the dependencies. (client and server)
+- Rename the default.env file in both directories and configure it.
+- Use `cd client` then `npm run dev` to run your client
+- Use `cd server` then `npm run serve` to run your server
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Admin email: mediaid-admin@gmail.com<br>
+Admin password: 123456789
 
-## Available Scripts
+### User guide
 
-In the project directory, you can run:
+To get started with donating medicines, please follow these steps:
 
-### `npm start`
+1. Check the expiration date: Make sure that the medicines you wish to donate have not expired or are close to expiring.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Sort and package the medicines: Sort the medicines into separate bags or boxes according to their type (e.g., painkillers, antibiotics, etc.). Label each bag/box with the name of the medicine and the expiration date.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Apply for the donation in our platform with proper documents and images.
 
-### `npm test`
+4. If it meets our requirements we will accept your gratitude.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contributing
 
-### `npm run build`
+We welcome contributions to this project in the form of code, documentation, or financial support. If you are interested in contributing, please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## License
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project is licensed under the [MIT License](LICENSE).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contact
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any questions or suggestions, please feel free to reach out to us at sharif35-3001@diu.edu.bd or asiful35-2961@diu.edu.bd. Thank you for your interest in donating medicines and helping to improve access to healthcare for all.
